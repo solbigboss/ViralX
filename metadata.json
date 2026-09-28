@@ -1,0 +1,9 @@
+{
+  "name": "ViralX - Twitter Video Downloader & MP3 Converter",
+  "description": "Fastest high-definition Twitter/X video downloader and MP3 audio extractor. Mobile-first, zero layout shift, and global multi-language support.",
+  "requestFramePermissions": [
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
